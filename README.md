@@ -7,7 +7,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gilsomanfredi/)](https://www.instagram.com/gilsomanfredi/)
 
 
-### Hi there 👋
+### Olá 
+
+
+Eu sou Gilso Manfredi, seu desenvolvedor backend Java, sou formado em Sistemas de Informacao pela UNISEP, com especialização em Java pela UTFPR e MBA em Liderança e Coaching para Gestão de Pessoas pela UNOPAR EAD. Trabalho com programação Java a mais de 10 anos, profissionalmente a 6, trabalho muito com o framework Spring que facilita bastante a vida de um programador. Alem do Java trabalho com Docker, Git, Jenkins, bancos de dados relacionais e não relacionais e alguns frameworks frontend, como ExtJs, Angular e React, mas com conhecimento não muito avançado.
 
 <!--
 **gilsomanfredi/gilsomanfredi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
