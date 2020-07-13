@@ -15,6 +15,6 @@ Eu sou Gilso Manfredi, seu desenvolvedor backend Java, sou formado em Sistemas d
 Trabalho com programação Java a mais de 10 anos, profissionalmente a 6, trabalho muito com o framework Spring que facilita bastante a vida de um programador. Além do Java trabalho com Docker, Git, Jenkins, bancos de dados relacionais e não relacionais e alguns frameworks frontend, como ExtJs, Angular e React, mas com conhecimento não muito avançado.
 
 
-- 🔭 Atualmente trabalho com java na CISS S/A
-- 🌱 Estou aprofundando meus conhecimentos em Spring, Docker e RabbitMQ
-- :coffee: E apaixonado por café
+- :mortar_board: Especialista Java
+- :office: Atualmente trabalho com java na CISS S/A
+- :telescope: Estou aprofundando meus conhecimentos em Spring, Docker e RabbitMQ
